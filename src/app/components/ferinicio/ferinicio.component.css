@@ -1,0 +1,7 @@
+/* imagen de fondo de fer */
+.bgimage {
+    height:100vh;
+    
+    background-size:cover;
+    position:relative;
+}

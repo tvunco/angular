@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+.bgimage {
+ 
+    background: url('images/yo.jpeg');
+ 
+}
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+
+/* espaciado en todas las secciones */
+#sobremi, #servicios, #portfolio, #contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
